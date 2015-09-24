@@ -92,3 +92,15 @@ Tips:
 
 ## Techniques to Reinforce Retention
 
+average retention rate for a presentation is 20%
+
+* first impressions: don't worry about the first impression only, you can still recoer and end on a strong note
+* clear overarching message, and if you don't give on to the audience, they will pick something that may not match your message
+* balance: try to find a mix of styles for different kinds of learners
+	* slides vs delivery to convey your message
+* important points
+	* don't have too much information, it will overload the audience
+	* maximum of 3 points per slide
+	* don't worry about how many slides you have
+* metaphors
+	* the audience must be able to relate to your metaphor, sometimes they can go wrong based on your audience's background

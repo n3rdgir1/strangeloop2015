@@ -58,3 +58,37 @@ How to remember what is taught?
 	* using stuff soon
 	* importance of needing it Now
 	
+## Presentations with learners in mind
+
+There is a learning pyramid for average student retention rates:
+
+* Lecture: does not give a percentage
+* Reading: 10%
+* Audiovisual: 20%
+* Demonstration: 30%
+* Discussion: 50%
+* Practice doing: 75%
+* Teaching others: 90%
+
+Tips:
+
+* makes slides available
+* let people record
+* evaluate your content
+	* make sure it's clearly represented
+	* cover multiple learning styles
+	* how is it better: picture, graph, discussion?
+* relevance
+	* need to know why this is important
+* attention
+	* everyone loses focus occasionally
+	* change grabs attention
+	* make small/big changes (font, picture)
+	* macro changes
+		* movement, teaching style, teacher, delivery method, visual mediums
+		* don't be afraid of silence: silence gets people to refocus to the presenter
+	* micro changes
+		* visual sections, brain break, pauses, manurisms, jokes appropriate for the audience, stories
+
+## Techniques to Reinforce Retention
+

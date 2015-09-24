@@ -20,3 +20,41 @@ https://speakerdeck.com/cattycreations/stepping-outside-your-comfort-zone-learni
 	* implement: progress through system, don't jump around, diagrams
 * Solitary/Social
 	* how they function better at learning: working alone or in groups
+	
+Have multiple styles, but some are stronger than others. Your learning styles whill influence how you speak "I see what you mean" versus "I hear your point".
+
+## Adult learners
+* peer relationship with instructors
+* greater availability with instructors
+* link new learning to prior learning
+* evaluate the information that fits with experiences
+* needs to be applicable to actually learn, no more theories
+
+Motivation
+
+* wants and needs
+* benefiting social relations
+* perceptions of "being an adult" (keeping job, staying current)
+* improvement
+* escape/stimulation: new experiences
+* going down rabbit hole, clicking all the wiki annotation links
+
+* like progression towards goal
+* like rewards or getting benefits of learning
+
+How to remember what is taught?
+
+* reinforcement
+	* positive (raise, free food, praise)
+	* negative (lack of positive reinforcement)
+* retention
+	* practice!
+	* see the meaning
+	* see purpose
+	* interpret the stuff
+	* be able to apply it
+* transference
+	* use learned stuff in new situation
+	* using stuff soon
+	* importance of needing it Now
+	

@@ -2,7 +2,7 @@
 
 Slides: http://view.dckr.info/#1
 
-vmstat 1 = give stats on the vm and update every second
+vmstat 1 = give stats on the host vm and update every second
 
 docker-compose load balancing!
 
@@ -25,7 +25,7 @@ rng0:
       - "8001:80"
 ```
 
-Ambassadors:
+## Ambassadors:
 
 ```
 redis:
@@ -36,4 +36,12 @@ redis:
 * work as local load balancers, saving a hop
 * negative impact on load balancer fairness
 	* each node will load balance their output, and has no idea what the other ambassadors are doing (usually not a huge problem)
-	*
+
+## Checking on network traffic on a running container:
+
+```
+docker run --net container:myredis -ti alpine
+```
+
+alpine: super slim linux container
+

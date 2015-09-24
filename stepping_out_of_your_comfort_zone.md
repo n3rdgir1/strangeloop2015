@@ -104,3 +104,10 @@ average retention rate for a presentation is 20%
 	* don't worry about how many slides you have
 * metaphors
 	* the audience must be able to relate to your metaphor, sometimes they can go wrong based on your audience's background
+
+## presentations
+
+* visual: pictures vs words
+* aural: sound recordings, repeat important points and pause
+* physical: dynamics as a presenter
+* locical: diagrams, bullets for important points
